@@ -5,3 +5,4 @@ Technologies used
 - Android DataBinding
 - Glide
 - Retrofit
+- Koin
