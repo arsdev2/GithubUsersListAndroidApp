@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GithubUsersViewer</string>
+    <string name="list_users_title">List our users</string>
+</resources>

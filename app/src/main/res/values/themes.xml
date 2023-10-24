@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GithubUsersViewer" parent="Theme.Material3.DayNight.NoActionBar">
+         <item name="colorPrimary">@color/my_light_primary</item>
+    </style>
+
+    <style name="Theme.GithubUsersViewer" parent="Base.Theme.GithubUsersViewer" >
+        <item name="colorPrimary">@color/my_light_primary</item>
+    </style>
+</resources>
